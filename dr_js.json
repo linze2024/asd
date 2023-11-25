@@ -1,87 +1,87 @@
 {//231103 https://www.ywsj.cf/upload/2023/10/yyzq4k.json
-  "warningText": "🐼ywsj.cf",
+  "warningText": "🐼ywsj.cf"，
   "sites": [
     
      {
-      "key": "豆豆",
-      "name": "test影音",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
+      "key": "豆豆"，
+      "name": "test影音"，
+      "type": 3，
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a"，
+      "api": "csp_DouDou"，
+      "searchable": 0，
+      "quickSearch": 0，
       "filterable": 0
-    },
+    }，
     {
-      "key": "js豆瓣备用",
-      "name": "🍥yyzq影音",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/doubanbf.js",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "js豆瓣备用"，
+      "name": "🍥yyzq影音"，
+      "type": 3，
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/doubanbf.js"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 0
-    },
+    }，
        {
-      "key": "csp_Bttoo",
-      "name": "🍄┃比特┃2K",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_Bttoo"，
+      "name": "🍄┃比特┃2K"，
+      "type": 3，
+      "api": "csp_Bttwoo"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
        {
-      "key": "索尼",
-      "name": "🛸┃索尼┃2K",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "key": "索尼"，
+      "name": "🛸┃索尼┃2K"，
+      "type": 1，
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list"，
+      "playUrl": ""，
+      "searchable": 1，
+      "quickSearch": 1，
+      "filterable": 1，
       "categories": [
-        "国产剧",
-        "大陆综艺",
-        "动作片",
-        "国产动漫",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "记录片",
-        "海外剧",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "足球",
+        "国产剧"，
+        "大陆综艺"，
+        "动作片"，
+        "国产动漫"，
+        "喜剧片"，
+        "爱情片"，
+        "科幻片"，
+        "恐怖片"，
+        "剧情片"，
+        "战争片"，
+        "欧美剧"，
+        "韩剧"，
+        "日剧"，
+        "港剧"，
+        "台剧"，
+        "泰剧"，
+        "记录片"，
+        "海外剧"，
+        "日韩综艺"，
+        "港台综艺"，
+        "欧美综艺"，
+        "足球"，
         "影视解说"
       ]
-    },
+    }，
     {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "key": "直播转点播"，
+      "name": "📺︎┃电视┃直播"，
+      "type": 3，
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zbzdb.js"，
+      "searchable": 1，
+      "quickSearch": 0，
+      "filterable": 0，
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zb.json"
-    },
+    }，
       {
-      "key": "Czsapp",
-      "name": "📔┃厂长┃4K",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "key": "Czsapp"，
+      "name": "📔┃厂长┃4K"，
+      "type": 3，
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a"，
+      "api": "csp_Czsapp"，
+      "playerType": 2，
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
