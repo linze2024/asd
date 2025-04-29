@@ -1,0 +1,1628 @@
+央视直播,#genre#
+天津卫视,http://60.26.15.174:85/tsfile/live/16001_1.m3u8?key=txiptv&playlive=1&authid=0
+天津新闻,http://60.26.15.174:85/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
+天津文艺,http://60.26.15.174:85/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
+天津影视,http://60.26.15.174:85/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
+天津都市,http://60.26.15.174:85/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://60.26.15.174:85/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津教育,http://60.26.15.174:85/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://60.26.15.174:85/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://60.26.15.174:85/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://60.26.15.174:85/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-中文国际,http://60.26.15.174:85/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://60.26.15.174:85/tsfile/live/16012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://60.26.15.174:85/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-国防军事,http://60.26.15.174:85/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://60.26.15.174:85/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://60.26.15.174:85/tsfile/live/16016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://60.26.15.174:85/tsfile/live/16017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://60.26.15.174:85/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://60.26.15.174:85/tsfile/live/16019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://60.26.15.174:85/tsfile/live/16020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://60.26.15.174:85/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://60.26.15.174:85/tsfile/live/16022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16-奥林匹克,http://60.26.15.174:85/tsfile/live/16023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17-农业农村,http://60.26.15.174:85/tsfile/live/16024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+-体育赛事,http://60.26.15.174:85/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://60.26.15.174:85/tsfile/live/16026_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://60.26.15.174:85/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://60.26.15.174:85/tsfile/live/16028_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://60.26.15.174:85/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://60.26.15.174:85/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://60.26.15.174:85/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.26.15.174:85/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://60.26.15.174:85/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://60.26.15.174:85/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://60.26.15.174:85/tsfile/live/16035_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://60.26.15.174:85/tsfile/live/16036_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://60.26.15.174:85/tsfile/live/16037_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://60.26.15.174:85/tsfile/live/16038_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://60.26.15.174:85/tsfile/live/16039_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://60.26.15.174:85/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.26.15.174:85/tsfile/live/16041_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://60.26.15.174:85/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://60.26.15.174:85/tsfile/live/16043_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://60.26.15.174:85/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://60.26.15.174:85/tsfile/live/16045_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://60.26.15.174:85/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://60.26.15.174:85/tsfile/live/16047_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://60.26.15.174:85/tsfile/live/16048_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+
+
+天津卫视,http://60.26.15.51:85/tsfile/live/16001_1.m3u8?key=txiptv&playlive=1&authid=0
+天津新闻,http://60.26.15.51:85/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
+天津文艺,http://60.26.15.51:85/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
+天津影视,http://60.26.15.51:85/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
+天津都市,http://60.26.15.51:85/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://60.26.15.51:85/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津教育,http://60.26.15.51:85/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://60.26.15.51:85/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://60.26.15.51:85/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://60.26.15.51:85/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-中文国际,http://60.26.15.51:85/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://60.26.15.51:85/tsfile/live/16012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://60.26.15.51:85/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-国防军事,http://60.26.15.51:85/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://60.26.15.51:85/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://60.26.15.51:85/tsfile/live/16016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://60.26.15.51:85/tsfile/live/16017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://60.26.15.51:85/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://60.26.15.51:85/tsfile/live/16019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://60.26.15.51:85/tsfile/live/16020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://60.26.15.51:85/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://60.26.15.51:85/tsfile/live/16022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16-奥林匹克,http://60.26.15.51:85/tsfile/live/16023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17-农业农村,http://60.26.15.51:85/tsfile/live/16024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+-体育赛事,http://60.26.15.51:85/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://60.26.15.51:85/tsfile/live/16026_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://60.26.15.51:85/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://60.26.15.51:85/tsfile/live/16028_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://60.26.15.51:85/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://60.26.15.51:85/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://60.26.15.51:85/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.26.15.51:85/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://60.26.15.51:85/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://60.26.15.51:85/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://60.26.15.51:85/tsfile/live/16035_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://60.26.15.51:85/tsfile/live/16036_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://60.26.15.51:85/tsfile/live/16037_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://60.26.15.51:85/tsfile/live/16038_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://60.26.15.51:85/tsfile/live/16039_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://60.26.15.51:85/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.26.15.51:85/tsfile/live/16041_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://60.26.15.51:85/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://60.26.15.51:85/tsfile/live/16043_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://60.26.15.51:85/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://60.26.15.51:85/tsfile/live/16045_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://60.26.15.51:85/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://60.26.15.51:85/tsfile/live/16047_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://60.26.15.51:85/tsfile/live/16048_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+
+CCTV1-综合,http://101.66.194.123:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://101.66.194.123:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://101.66.194.123:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://101.66.194.123:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://101.66.194.123:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://101.66.194.123:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://101.66.194.123:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://101.66.194.123:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://101.66.194.123:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://101.66.194.123:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://101.66.194.123:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://101.66.194.123:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://101.66.194.123:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://101.66.194.123:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://101.66.194.123:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.194.123:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.194.123:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.194.123:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.194.123:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.194.123:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.194.123:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.194.123:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.194.123:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.194.123:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.123:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.194.123:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.194.123:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.194.123:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.194.123:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.194.123:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.194.123:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.194.123:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.194.123:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.194.123:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.194.123:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.194.123:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.194.123:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.194.123:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.194.123:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.194.123:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.194.123:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+输入有效酒店源的IP和端口： 
+ 
+CCTV1-综合,http://124.165.251.82:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://124.165.251.82:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://124.165.251.82:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://124.165.251.82:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://124.165.251.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://124.165.251.82:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://124.165.251.82:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://124.165.251.82:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://124.165.251.82:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://124.165.251.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://124.165.251.82:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://124.165.251.82:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://124.165.251.82:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+岚县电视台,http://124.165.251.82:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+吕梁一台,http://124.165.251.82:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+吕梁二台,http://124.165.251.82:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://124.165.251.82:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://124.165.251.82:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://124.165.251.82:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://124.165.251.82:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://124.165.251.82:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://124.165.251.82:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://124.165.251.82:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://124.165.251.82:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://124.165.251.82:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://124.165.251.82:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://124.165.251.82:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://124.165.251.82:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://124.165.251.82:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://124.165.251.82:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://124.165.251.82:85/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://124.165.251.82:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://124.165.251.82:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://124.165.251.82:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://124.165.251.82:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://124.165.251.82:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://124.165.251.82:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://124.165.251.82:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://124.165.251.82:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+
+
+
+ 
+CCTV1,http://221.213.90.89:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://221.213.90.89:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://221.213.90.89:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://221.213.90.89:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://221.213.90.89:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://221.213.90.89:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://221.213.90.89:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://221.213.90.89:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://221.213.90.89:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://221.213.90.89:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://221.213.90.89:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://221.213.90.89:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://221.213.90.89:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://221.213.90.89:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://221.213.90.89:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://221.213.90.89:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://221.213.90.89:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://221.213.90.89:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://221.213.90.89:85/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://221.213.90.89:85/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://221.213.90.89:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://221.213.90.89:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://221.213.90.89:85/tsfile/live/0135_2.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://221.213.90.89:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://221.213.90.89:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://221.213.90.89:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://221.213.90.89:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://221.213.90.89:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://221.213.90.89:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://221.213.90.89:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://221.213.90.89:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://221.213.90.89:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://221.213.90.89:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://221.213.90.89:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://221.213.90.89:85/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://221.213.90.89:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://221.213.90.89:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://221.213.90.89:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://221.213.90.89:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+青海卫视,http://221.213.90.89:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,http://221.213.90.89:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://221.213.90.89:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://221.213.90.89:85/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://221.213.90.89:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+优漫卡通,http://221.213.90.89:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+嘉佳卡通,http://221.213.90.89:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+哈哈炫动,http://221.213.90.89:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卡通,http://221.213.90.89:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+输入有效酒店源的IP和端口： 
+ 
+CCTV1-综合,http://42.48.80.240:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://42.48.80.240:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://42.48.80.240:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://42.48.80.240:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://42.48.80.240:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://42.48.80.240:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://42.48.80.240:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://42.48.80.240:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://42.48.80.240:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://42.48.80.240:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://42.48.80.240:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://42.48.80.240:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://42.48.80.240:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://42.48.80.240:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://42.48.80.240:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://42.48.80.240:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://42.48.80.240:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://42.48.80.240:9002/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://42.48.80.240:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://42.48.80.240:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://42.48.80.240:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://42.48.80.240:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://42.48.80.240:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://42.48.80.240:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://42.48.80.240:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://42.48.80.240:9002/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://42.48.80.240:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://42.48.80.240:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://42.48.80.240:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://42.48.80.240:9002/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://42.48.80.240:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://42.48.80.240:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://42.48.80.240:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://42.48.80.240:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://42.48.80.240:9002/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://42.48.80.240:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://42.48.80.240:9002/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://42.48.80.240:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://42.48.80.240:9002/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://42.48.80.240:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+CCTV1-综合,http://116.128.243.121:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://116.128.243.121:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://116.128.243.121:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://116.128.243.121:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://116.128.243.121:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军事,http://116.128.243.121:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://116.128.243.121:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://116.128.243.121:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://116.128.243.121:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://116.128.243.121:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://116.128.243.121:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://116.128.243.121:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://116.128.243.121:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://116.128.243.121:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.128.243.121:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://116.128.243.121:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://116.128.243.121:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://116.128.243.121:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://116.128.243.121:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://116.128.243.121:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://116.128.243.121:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://116.128.243.121:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://116.128.243.121:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://116.128.243.121:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://116.128.243.121:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://116.128.243.121:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://116.128.243.121:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://116.128.243.121:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://116.128.243.121:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://116.128.243.121:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://116.128.243.121:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://116.128.243.121:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://116.128.243.121:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://116.128.243.121:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://116.128.243.121:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://116.128.243.121:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南公共,http://116.128.243.121:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://116.128.243.121:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://116.128.243.121:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南教育,http://116.128.243.121:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+
+中央1高清,http://101.18.28.102:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+中央2高清,http://101.18.28.102:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+中央3标清,http://101.18.28.102:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+中央4高清,http://101.18.28.102:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+中央5标清,http://101.18.28.102:808/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+中央6标清,http://101.18.28.102:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+中央7高清,http://101.18.28.102:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+中央8标清,http://101.18.28.102:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+中央9高清,http://101.18.28.102:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+中央10高清,http://101.18.28.102:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+中央11高清,http://101.18.28.102:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+中央12高清,http://101.18.28.102:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+中央13高清,http://101.18.28.102:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+中央14高清,http://101.18.28.102:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+中央15高清,http://101.18.28.102:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+中央17高清,http://101.18.28.102:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+中央5+高清,http://101.18.28.102:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视高清,http://101.18.28.102:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济生活高清,http://101.18.28.102:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+河北都市高清,http://101.18.28.102:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视剧高清,http://101.18.28.102:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+河北少儿科教高清,http://101.18.28.102:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河北公共高清,http://101.18.28.102:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民高清,http://101.18.28.102:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北杂技,http://101.18.28.102:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+保定新闻综合,http://101.18.28.102:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+保定公共频道,http://101.18.28.102:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+保定生活健康,http://101.18.28.102:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://101.18.28.102:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视高清,http://101.18.28.102:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视高清,http://101.18.28.102:808/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视高清,http://101.18.28.102:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视高清,http://101.18.28.102:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视高清,http://101.18.28.102:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视高清,http://101.18.28.102:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视高清,http://101.18.28.102:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视高清,http://101.18.28.102:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.18.28.102:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视高清,http://101.18.28.102:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视高清,http://101.18.28.102:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视高清,http://101.18.28.102:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视高清,http://101.18.28.102:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视高清,http://101.18.28.102:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视高清,http://101.18.28.102:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视高清,http://101.18.28.102:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视高清,http://101.18.28.102:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视高清,http://101.18.28.102:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视高清,http://101.18.28.102:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://101.18.28.102:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视高清,http://101.18.28.102:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://101.18.28.102:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://101.18.28.102:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://101.18.28.102:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://101.18.28.102:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://101.18.28.102:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://101.18.28.102:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://101.18.28.102:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育,http://101.18.28.102:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+纪实人文高清,http://101.18.28.102:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.18.28.102:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://101.18.28.102:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV冬奥纪实高清,http://101.18.28.102:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实高清,http://101.18.28.102:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2,http://101.18.28.102:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4,http://101.18.28.102:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+中国交通,http://101.18.28.102:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://101.18.28.102:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+山东文旅(电信),http://182.34.114.70:85http://144.123.29.172:80/00/SNM/CHANNEL00000056/index.m3u8
+山东新闻(电信高清),http://182.34.114.70:85http://144.123.29.171:80/00/SNM/CHANNEL00000314/index.m3u8
+山东综艺(电信),http://182.34.114.70:85http://222.173.198.172:80/00/SNM/CHANNEL00000054/index.m3u8
+山东生活(电信),http://182.34.114.70:85http://222.173.198.166:80/00/SNM/CHANNEL00000055/index.m3u8
+山东体育(电信高清),http://182.34.114.70:85http://144.123.29.174:80/00/SNM/CHANNEL00000315/index.m3u8
+山东农科(电信),http://182.34.114.70:85http://222.173.198.174:80/00/SNM/CHANNEL00000058/index.m3u8
+山东少儿(电信),http://182.34.114.70:85http://222.173.198.167:80/00/SNM/CHANNEL00000059/index.m3u8
+CCTV1-综合,http://182.34.114.70:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://182.34.114.70:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://182.34.114.70:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://182.34.114.70:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://182.34.114.70:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://182.34.114.70:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://182.34.114.70:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://182.34.114.70:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://182.34.114.70:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://182.34.114.70:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://182.34.114.70:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://182.34.114.70:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://182.34.114.70:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://182.34.114.70:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://182.34.114.70:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://182.34.114.70:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+烟台新闻,http://182.34.114.70:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+烟台公共,http://182.34.114.70:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://182.34.114.70:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://182.34.114.70:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://182.34.114.70:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://182.34.114.70:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://182.34.114.70:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+
+ 
+
+
+
+CCTV1,http://101.19.84.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://101.19.84.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://101.19.84.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://101.19.84.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://101.19.84.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://101.19.84.8:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://101.19.84.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://101.19.84.8:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://101.19.84.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://101.19.84.8:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://101.19.84.8:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://101.19.84.8:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://101.19.84.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://101.19.84.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://101.19.84.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://101.19.84.8:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://101.19.84.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.19.84.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://101.19.84.8:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.19.84.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://101.19.84.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://101.19.84.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://101.19.84.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://101.19.84.8:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://101.19.84.8:9901/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://101.19.84.8:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.19.84.8:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://101.19.84.8:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://101.19.84.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://101.19.84.8:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://101.19.84.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://101.19.84.8:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://101.19.84.8:9901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://101.19.84.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://101.19.84.8:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://101.19.84.8:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0
+
+
+ 
+CCTV1-综合,http://101.66.194.123:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://101.66.194.123:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://101.66.194.123:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://101.66.194.123:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://101.66.194.123:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://101.66.194.123:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://101.66.194.123:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://101.66.194.123:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://101.66.194.123:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://101.66.194.123:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://101.66.194.123:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://101.66.194.123:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://101.66.194.123:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://101.66.194.123:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://101.66.194.123:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.194.123:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.194.123:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.194.123:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.194.123:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.194.123:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.194.123:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.194.123:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.194.123:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.194.123:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.123:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.194.123:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.194.123:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.194.123:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.194.123:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.194.123:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.194.123:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.194.123:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.194.123:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.194.123:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.194.123:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.194.123:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.194.123:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.194.123:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.194.123:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.194.123:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.194.123:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
+ CCTV1-综合,http://60.8.49.38:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://60.8.49.38:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://60.8.49.38:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://60.8.49.38:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://60.8.49.38:352/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://60.8.49.38:352/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://60.8.49.38:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://60.8.49.38:352/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://60.8.49.38:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://60.8.49.38:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://60.8.49.38:352/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://60.8.49.38:352/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://60.8.49.38:352/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://60.8.49.38:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://60.8.49.38:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://60.8.49.38:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://60.8.49.38:352/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://60.8.49.38:352/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://60.8.49.38:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://60.8.49.38:352/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://60.8.49.38:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://60.8.49.38:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.8.49.38:352/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://60.8.49.38:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://60.8.49.38:352/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://60.8.49.38:352/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://60.8.49.38:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://60.8.49.38:352/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://60.8.49.38:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://60.8.49.38:352/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://60.8.49.38:352/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.8.49.38:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://60.8.49.38:352/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://60.8.49.38:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://60.8.49.38:352/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://60.8.49.38:352/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://60.8.49.38:352/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://60.8.49.38:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://60.8.49.38:352/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+张家口新闻综合,http://60.8.49.38:352/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+张北电视,http://60.8.49.38:352/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://60.8.49.38:352/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://60.8.49.38:352/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://60.8.49.38:352/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://60.8.49.38:352/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://60.8.49.38:352/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://60.8.49.38:352/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://60.8.49.38:352/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://60.8.49.38:352/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://60.8.49.38:352/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV1-综合,http://101.66.194.123:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://101.66.194.123:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://101.66.194.123:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://101.66.194.123:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://101.66.194.123:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://101.66.194.123:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://101.66.194.123:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://101.66.194.123:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://101.66.194.123:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://101.66.194.123:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://101.66.194.123:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://101.66.194.123:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://101.66.194.123:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://101.66.194.123:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://101.66.194.123:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.194.123:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.194.123:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.194.123:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.194.123:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.194.123:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.194.123:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.194.123:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.194.123:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.194.123:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.123:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.194.123:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.194.123:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.194.123:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.194.123:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.194.123:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.194.123:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.194.123:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.194.123:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.194.123:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.194.123:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.194.123:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.194.123:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.194.123:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.194.123:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.194.123:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.194.123:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+输入有效酒店源的IP和端口： 
+ 
+CCTV1-综合,http://124.67.12.222:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://124.67.12.222:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://124.67.12.222:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://124.67.12.222:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://124.67.12.222:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://124.67.12.222:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://124.67.12.222:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://124.67.12.222:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://124.67.12.222:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://124.67.12.222:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://124.67.12.222:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://124.67.12.222:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://124.67.12.222:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://124.67.12.222:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://124.67.12.222:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://124.67.12.222:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://124.67.12.222:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://124.67.12.222:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://124.67.12.222:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://124.67.12.222:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://124.67.12.222:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://124.67.12.222:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://124.67.12.222:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://124.67.12.222:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://124.67.12.222:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://124.67.12.222:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://124.67.12.222:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://124.67.12.222:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://124.67.12.222:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://124.67.12.222:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://124.67.12.222:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://124.67.12.222:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://124.67.12.222:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://124.67.12.222:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://124.67.12.222:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://124.67.12.222:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://124.67.12.222:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://124.67.12.222:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://124.67.12.222:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://124.67.12.222:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://124.67.12.222:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://124.67.12.222:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古经济生活,http://124.67.12.222:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+文体娱乐,http://124.67.12.222:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙新闻综合,http://124.67.12.222:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古农牧卫视,http://124.67.12.222:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+蒙古语卫视,http://124.67.12.222:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿频道,http://124.67.12.222:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+呼和浩特新闻综合,http://124.67.12.222:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+呼和浩特都市生活,http://124.67.12.222:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+呼和浩特影视娱乐,http://124.67.12.222:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://124.67.12.222:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://124.67.12.222:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+急速汽车,http://124.67.12.222:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+全实记,http://124.67.12.222:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+地理,http://124.67.12.222:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+喜剧影院,http://124.67.12.222:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+动作影院,http://124.67.12.222:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://124.67.12.222:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+星影剧场,http://124.67.12.222:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://124.67.12.222:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+收视指南,http://124.67.12.222:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经,http://124.67.12.222:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+墨宝,http://124.67.12.222:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+IPTV野外,http://124.67.12.222:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ 
+CCTV1-综合,http://218.1.217.21:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://218.1.217.21:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://218.1.217.21:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://218.1.217.21:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://218.1.217.21:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://218.1.217.21:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://218.1.217.21:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://218.1.217.21:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://218.1.217.21:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://218.1.217.21:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://218.1.217.21:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://218.1.217.21:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://218.1.217.21:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://218.1.217.21:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://218.1.217.21:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://218.1.217.21:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://218.1.217.21:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+上海纪实,http://218.1.217.21:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+法制天地,http://218.1.217.21:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+上海教育,http://218.1.217.21:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+崇明综合,http://218.1.217.21:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://218.1.217.21:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+上海电视剧,http://218.1.217.21:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://218.1.217.21:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+都市频道,http://218.1.217.21:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://218.1.217.21:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://218.1.217.21:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.1.217.21:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://218.1.217.21:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://218.1.217.21:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://218.1.217.21:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.1.217.21:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://218.1.217.21:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.1.217.21:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://218.1.217.21:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://218.1.217.21:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://218.1.217.21:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.1.217.21:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://218.1.217.21:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.1.217.21:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://218.1.217.21:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://218.1.217.21:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.1.217.21:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://218.1.217.21:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://218.1.217.21:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.1.217.21:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://218.1.217.21:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.1.217.21:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经HD,http://218.1.217.21:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+输入有效酒店源的IP和端口： 
+ CCTV1-综合,http://180.165.131.120:85/tsfile/live/1/2001_1.m3u8?key=txiptv
+CCTV2-财经,http://180.165.131.120:85/tsfile/live/2/2002_1.m3u8?key=txiptv
+CCTV3-综艺,http://180.165.131.120:85/tsfile/live/3/2003_1.m3u8?key=txiptv
+CCTV4-国际,http://180.165.131.120:85/tsfile/live/4/2004_1.m3u8?key=txiptv
+CCTV5-体育,http://180.165.131.120:85/tsfile/live/5/2005_1.m3u8?key=txiptv
+CCTV6-电影,http://180.165.131.120:85/tsfile/live/6/2006_1.m3u8?key=txiptv
+CCTV7-军农,http://180.165.131.120:85/tsfile/live/7/2007_1.m3u8?key=txiptv
+CCTV8-电视剧,http://180.165.131.120:85/tsfile/live/8/2008_1.m3u8?key=txiptv
+CCTV9-记录,http://180.165.131.120:85/tsfile/live/9/2009_1.m3u8?key=txiptv
+CCTV10-科教,http://180.165.131.120:85/tsfile/live/10/2010_1.m3u8?key=txiptv
+CCTV11-喜剧,http://180.165.131.120:85/tsfile/live/11/2011_1.m3u8?key=txiptv
+CCTV12-社会与法,http://180.165.131.120:85/tsfile/live/12/2012_1.m3u8?key=txiptv
+CCTV13-新闻,http://180.165.131.120:85/tsfile/live/13/2013_1.m3u8?key=txiptv
+CCTV14-少儿,http://180.165.131.120:85/tsfile/live/14/2014_1.m3u8?key=txiptv
+CCTV15-音乐,http://180.165.131.120:85/tsfile/live/15/2015_1.m3u8?key=txiptv
+CCTV5+体育赛事,http://180.165.131.120:85/tsfile/live/16/2016_1.m3u8?key=txiptv
+东方卫视,http://180.165.131.120:85/tsfile/live/17/2017_1.m3u8?key=txiptv
+浙江卫视,http://180.165.131.120:85/tsfile/live/18/2018_1.m3u8?key=txiptv
+江苏卫视,http://180.165.131.120:85/tsfile/live/19/2019_1.m3u8?key=txiptv
+湖南卫视,http://180.165.131.120:85/tsfile/live/20/2020_1.m3u8?key=txiptv
+北京卫视,http://180.165.131.120:85/tsfile/live/21/2021_1.m3u8?key=txiptv
+广东卫视,http://180.165.131.120:85/tsfile/live/22/2022_1.m3u8?key=txiptv
+深圳卫视,http://180.165.131.120:85/tsfile/live/23/2023_1.m3u8?key=txiptv
+山东卫视,http://180.165.131.120:85/tsfile/live/24/2024_1.m3u8?key=txiptv
+湖北卫视,http://180.165.131.120:85/tsfile/live/25/2025_1.m3u8?key=txiptv
+安徽卫视,http://180.165.131.120:85/tsfile/live/26/2026_1.m3u8?key=txiptv
+东南卫视,http://180.165.131.120:85/tsfile/live/27/2027_1.m3u8?key=txiptv
+江西卫视,http://180.165.131.120:85/tsfile/live/28/2028_1.m3u8?key=txiptv
+辽宁卫视,http://180.165.131.120:85/tsfile/live/29/2029_1.m3u8?key=txiptv
+天津卫视,http://180.165.131.120:85/tsfile/live/30/2030_1.m3u8?key=txiptv
+四川卫视,http://180.165.131.120:85/tsfile/live/31/2031_1.m3u8?key=txiptv
+重庆卫视,http://180.165.131.120:85/tsfile/live/32/2032_1.m3u8?key=txiptv
+贵州卫视,http://180.165.131.120:85/tsfile/live/33/2033_1.m3u8?key=txiptv
+海南卫视,http://180.165.131.120:85/tsfile/live/34/2034_1.m3u8?key=txiptv
+河北卫视,http://180.165.131.120:85/tsfile/live/35/2035_1.m3u8?key=txiptv
+河南卫视,http://180.165.131.120:85/tsfile/live/36/2036_1.m3u8?key=txiptv
+云南卫视,http://180.165.131.120:85/tsfile/live/37/2037_1.m3u8?key=txiptv
+广西卫视,http://180.165.131.120:85/tsfile/live/38/2038_1.m3u8?key=txiptv
+吉林卫视,http://180.165.131.120:85/tsfile/live/39/2039_1.m3u8?key=txiptv
+甘肃卫视,http://180.165.131.120:85/tsfile/live/40/2040_1.m3u8?key=txiptv
+青海卫视,http://180.165.131.120:85/tsfile/live/41/2041_1.m3u8?key=txiptv
+宁夏卫视,http://180.165.131.120:85/tsfile/live/42/2042_1.m3u8?key=txiptv
+西藏卫视,http://180.165.131.120:85/tsfile/live/43/2043_1.m3u8?key=txiptv
+新疆卫视,http://180.165.131.120:85/tsfile/live/44/2044_1.m3u8?key=txiptv
+兵团卫视,http://180.165.131.120:85/tsfile/live/45/2045_1.m3u8?key=txiptv
+黑龙江卫视,http://180.165.131.120:85/tsfile/live/46/2046_1.m3u8?key=txiptv
+东南卫视,http://180.165.131.120:85/tsfile/live/47/2047_1.m3u8?key=txiptv
+陕西卫视,http://180.165.131.120:85/tsfile/live/48/2048_1.m3u8?key=txiptv
+延边卫视,http://180.165.131.120:85/tsfile/live/49/2049_1.m3u8?key=txiptv
+动漫秀场,http://180.165.131.120:85/tsfile/live/50/2050_1.m3u8?key=txiptv
+哈哈炫动,http://180.165.131.120:85/tsfile/live/51/2051_1.m3u8?key=txiptv
+金鹰卡通,http://180.165.131.120:85/tsfile/live/52/2052_1.m3u8?key=txiptv
+上海教育,http://180.165.131.120:85/tsfile/live/53/2053_1.m3u8?key=txiptv
+CHC家庭影院,http://180.165.131.120:85/tsfile/live/54/2054_1.m3u8?key=txiptv
+CHC动作电影,http://180.165.131.120:85/tsfile/live/55/2055_1.m3u8?key=txiptv
+CHC影迷电影,http://180.165.131.120:85/tsfile/live/56/2056_1.m3u8?key=txiptv
+输入有效酒店源的IP和端口： 
+ 
+
+
+四大名著,#genre#
+ 西游记 第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
+西游记 第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
+西游记 第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
+西游记 第04集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205307782734748_hlsb.m3u8
+西游记 第05集,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998463397799646_hlsb.m3u8
+西游记 第06集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382480897511687_hlsb.m3u8
+西游记 第07集,https://txmov2.a.kwimgs.com/bs3/video-hls/5255982306920155520_hlsb.m3u8
+西游记 第08集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245004783362852874_hlsb.m3u8
+西游记 第09集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188991261818113744_hlsb.m3u8
+西游记 第10集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286258564595605_hlsb.m3u8
+西游记 第11集,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190033819283686_hlsb.m3u8
+西游记 第12集,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465185500328899_hlsb.m3u8
+西游记 第13集,https://txmov2.a.kwimgs.com/bs3/video-hls/5233182832465375578_hlsb.m3u8
+西游记 第14集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952633664504505_hlsb.m3u8
+西游记 第15集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+西游记 第16集,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339285053330625_hlsb.m3u8
+西游记 第17集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353685308148894_hlsb.m3u8
+西游记 第18集,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028138193985933_hlsb.m3u8
+西游记 第19集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637211300344_hlsb.m3u8
+西游记 第20集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368961005814924_hlsb.m3u8
+西游记 第21集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590208336898334_hlsb.m3u8
+西游记 第22集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212506629016061_hlsb.m3u8
+西游记 第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
+西游记 第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
+西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
+三国演义 第01集,https://vip.lz-cdn6.com/20220821/23321_52c53b68/1000k/hls/mixed.m3u8
+三国演义 第02集,https://vip.lz-cdn6.com/20220821/23322_6fbf3eda/1000k/hls/mixed.m3u8
+三国演义 第03集,https://vip.lz-cdn6.com/20220821/23323_66ade890/1000k/hls/mixed.m3u8
+三国演义 第04集,https://vip.lz-cdn6.com/20220821/23324_340d36b1/1000k/hls/mixed.m3u8
+三国演义 第05集,https://vip.lz-cdn6.com/20220821/23325_5f5f4138/1000k/hls/mixed.m3u8
+三国演义 第06集,https://vip.lz-cdn6.com/20220821/23326_44505a63/1000k/hls/mixed.m3u8
+三国演义 第07集,https://vip.lz-cdn6.com/20220821/23327_367d6ae0/1000k/hls/mixed.m3u8
+三国演义 第08集,https://vip.lz-cdn6.com/20220821/23328_3f514c2f/1000k/hls/mixed.m3u8
+三国演义 第09集,https://vip.lz-cdn6.com/20220821/23329_f66e8501/1000k/hls/mixed.m3u8
+三国演义 第10集,https://vip.lz-cdn6.com/20220821/23330_72051172/1000k/hls/mixed.m3u8
+三国演义 第11集,https://vip.lz-cdn6.com/20220821/23331_63e75cff/1000k/hls/mixed.m3u8
+三国演义 第12集,https://vip.lz-cdn6.com/20220821/23332_639ea65f/1000k/hls/mixed.m3u8
+三国演义 第13集,https://vip.lz-cdn6.com/20220821/23333_4143fadc/1000k/hls/mixed.m3u8
+三国演义 第14集,https://vip.lz-cdn6.com/20220821/23334_c97443ac/1000k/hls/mixed.m3u8
+三国演义 第15集,https://vip.lz-cdn6.com/20220821/23335_c4040249/1000k/hls/mixed.m3u8
+三国演义 第16集,https://vip.lz-cdn6.com/20220821/23336_5becaa7c/1000k/hls/mixed.m3u8
+三国演义 第17集,https://vip.lz-cdn6.com/20220821/23337_972c3cf6/1000k/hls/mixed.m3u8
+三国演义 第18集,https://vip.lz-cdn6.com/20220821/23338_e3032797/1000k/hls/mixed.m3u8
+三国演义 第19集,https://vip.lz-cdn6.com/20220821/23339_9538d502/1000k/hls/mixed.m3u8
+三国演义 第20集,https://vip.lz-cdn6.com/20220821/23340_7de82d33/1000k/hls/mixed.m3u8
+三国演义 第21集,https://vip.lz-cdn6.com/20220821/23341_6b9137d0/1000k/hls/mixed.m3u8
+三国演义 第22集,https://vip.lz-cdn6.com/20220821/23342_c7533e9f/1000k/hls/mixed.m3u8
+三国演义 第23集,https://vip.lz-cdn6.com/20220821/23343_471e5137/1000k/hls/mixed.m3u8
+三国演义 第24集,https://vip.lz-cdn6.com/20220821/23344_7ab106fb/1000k/hls/mixed.m3u8
+三国演义 第25集,https://vip.lz-cdn6.com/20220821/23345_cdfec6ad/1000k/hls/mixed.m3u8
+三国演义 第26集,https://vip.lz-cdn6.com/20220821/23346_8a4cb915/1000k/hls/mixed.m3u8
+三国演义 第27集,https://vip.lz-cdn6.com/20220821/23347_9e19d416/1000k/hls/mixed.m3u8
+三国演义 第28集,https://vip.lz-cdn6.com/20220821/23348_f47241ce/1000k/hls/mixed.m3u8
+三国演义 第29集,https://vip.lz-cdn6.com/20220821/23349_6468251f/1000k/hls/mixed.m3u8
+三国演义 第30集,https://vip.lz-cdn6.com/20220821/23350_b0dd4148/1000k/hls/mixed.m3u8
+三国演义 第31集,https://vip.lz-cdn6.com/20220821/23351_4482ae94/1000k/hls/mixed.m3u8
+三国演义 第32集,https://vip.lz-cdn6.com/20220821/23352_4b0893ae/1000k/hls/mixed.m3u8
+三国演义 第33集,https://vip.lz-cdn6.com/20220821/23353_abd1f1df/1000k/hls/mixed.m3u8
+三国演义 第34集,https://vip.lz-cdn6.com/20220821/23354_f3012540/1000k/hls/mixed.m3u8
+三国演义 第35集,https://vip.lz-cdn6.com/20220821/23355_325973be/1000k/hls/mixed.m3u8
+三国演义 第36集,https://vip.lz-cdn6.com/20220821/23356_108bab0c/1000k/hls/mixed.m3u8
+三国演义 第37集,https://vip.lz-cdn6.com/20220821/23357_2d1e6e3e/1000k/hls/mixed.m3u8
+三国演义 第38集,https://vip.lz-cdn6.com/20220821/23358_abd9b6c8/1000k/hls/mixed.m3u8
+三国演义 第39集,https://vip.lz-cdn6.com/20220821/23359_31a740e2/1000k/hls/mixed.m3u8
+三国演义 第40集,https://vip.lz-cdn6.com/20220821/23360_b4c7eaaf/1000k/hls/mixed.m3u8
+三国演义 第41集,https://vip.lz-cdn6.com/20220821/23361_3cee2c97/1000k/hls/mixed.m3u8
+三国演义 第42集,https://vip.lz-cdn6.com/20220821/23362_e271c1f0/1000k/hls/mixed.m3u8
+三国演义 第43集,https://vip.lz-cdn6.com/20220821/23363_1d506e08/1000k/hls/mixed.m3u8
+三国演义 第44集,https://vip.lz-cdn6.com/20220821/23364_ad064e58/1000k/hls/mixed.m3u8
+三国演义 第45集,https://vip.lz-cdn6.com/20220821/23365_8ffe662d/1000k/hls/mixed.m3u8
+三国演义 第46集,https://vip.lz-cdn6.com/20220821/23366_e8b61041/1000k/hls/mixed.m3u8
+三国演义 第47集,https://vip.lz-cdn6.com/20220821/23367_dd51df94/1000k/hls/mixed.m3u8
+三国演义 第48集,https://vip.lz-cdn6.com/20220821/23368_16662c67/1000k/hls/mixed.m3u8
+三国演义 第49集,https://vip.lz-cdn6.com/20220821/23369_20de999c/1000k/hls/mixed.m3u8
+三国演义 第50集,https://vip.lz-cdn6.com/20220821/23370_479028ff/1000k/hls/mixed.m3u8
+三国演义 第51集,https://vip.lz-cdn6.com/20220821/23371_1499fdbc/1000k/hls/mixed.m3u8
+三国演义 第52集,https://vip.lz-cdn6.com/20220821/23372_8222ff82/1000k/hls/mixed.m3u8
+三国演义 第53集,https://vip.lz-cdn6.com/20220821/23373_3dbf0899/1000k/hls/mixed.m3u8
+三国演义 第54集,https://vip.lz-cdn6.com/20220821/23374_138a0fe3/1000k/hls/mixed.m3u8
+三国演义 第55集,https://vip.lz-cdn6.com/20220821/23375_841be7fd/1000k/hls/mixed.m3u8
+三国演义 第56集,https://vip.lz-cdn6.com/20220821/23376_e72c3062/1000k/hls/mixed.m3u8
+三国演义 第57集,https://vip.lz-cdn6.com/20220821/23377_9c0ba7ec/1000k/hls/mixed.m3u8
+三国演义 第58集,https://vip.lz-cdn6.com/20220821/23378_d06f0645/1000k/hls/mixed.m3u8
+三国演义 第59集,https://vip.lz-cdn6.com/20220821/23379_e7d99be1/1000k/hls/mixed.m3u8
+三国演义 第60集,https://vip.lz-cdn6.com/20220821/23380_02bea9ff/1000k/hls/mixed.m3u8
+三国演义 第61集,https://vip.lz-cdn6.com/20220821/23381_1550585a/1000k/hls/mixed.m3u8
+三国演义 第62集,https://vip.lz-cdn6.com/20220821/23382_40b974b4/1000k/hls/mixed.m3u8
+三国演义 第63集,https://vip.lz-cdn6.com/20220821/23383_c020cc1c/1000k/hls/mixed.m3u8
+三国演义 第64集,https://vip.lz-cdn6.com/20220821/23384_3c1540af/1000k/hls/mixed.m3u8
+三国演义 第65集,https://vip.lz-cdn6.com/20220821/23385_5b0157f2/1000k/hls/mixed.m3u8
+三国演义 第66集,https://vip.lz-cdn6.com/20220821/23386_93bf312f/1000k/hls/mixed.m3u8
+三国演义 第67集,https://vip.lz-cdn6.com/20220821/23387_34c02825/1000k/hls/mixed.m3u8
+三国演义 第68集,https://vip.lz-cdn6.com/20220821/23388_c7afa8e9/1000k/hls/mixed.m3u8
+三国演义 第69集,https://vip.lz-cdn6.com/20220821/23389_386e4778/1000k/hls/mixed.m3u8
+三国演义 第70集,https://vip.lz-cdn6.com/20220821/23390_80ee6472/1000k/hls/mixed.m3u8
+三国演义 第71集,https://vip.lz-cdn6.com/20220821/23391_63d153ed/1000k/hls/mixed.m3u8
+三国演义 第72集,https://vip.lz-cdn6.com/20220821/23392_99047c5a/1000k/hls/mixed.m3u8
+三国演义 第73集,https://vip.lz-cdn6.com/20220821/23393_7f449fb7/1000k/hls/mixed.m3u8
+三国演义 第74集,https://vip.lz-cdn6.com/20220821/23394_50478683/1000k/hls/mixed.m3u8
+三国演义 第75集,https://vip.lz-cdn6.com/20220821/23395_e457e305/1000k/hls/mixed.m3u8
+三国演义 第76集,https://vip.lz-cdn6.com/20220821/23396_391ceca5/1000k/hls/mixed.m3u8
+三国演义 第77集,https://vip.lz-cdn6.com/20220821/23397_4cab49ac/1000k/hls/mixed.m3u8
+三国演义 第78集,https://vip.lz-cdn6.com/20220821/23398_78af5ed8/1000k/hls/mixed.m3u8
+三国演义 第79集,https://vip.lz-cdn6.com/20220821/23399_cadbe2b9/1000k/hls/mixed.m3u8
+三国演义 第80集,https://vip.lz-cdn6.com/20220821/23400_e6a65bb7/1000k/hls/mixed.m3u8
+三国演义 第81集,https://vip.lz-cdn6.com/20220821/23401_d8f3896d/1000k/hls/mixed.m3u8
+三国演义 第82集,https://vip.lz-cdn6.com/20220821/23402_90bbfa54/1000k/hls/mixed.m3u8
+三国演义 第83集,https://vip.lz-cdn6.com/20220821/23403_8f057aac/1000k/hls/mixed.m3u8
+三国演义 第84集,https://vip.lz-cdn6.com/20220821/23404_8d858871/1000k/hls/mixed.m3u8
+红楼梦 第01集,https://v.cdnlz19.com/20240831/42404_29dad446/2000k/hls/mixed.m3u8
+红楼梦 第02集,https://v.cdnlz19.com/20240831/42405_2fd82cec/2000k/hls/mixed.m3u8
+红楼梦 第03集,https://v.cdnlz19.com/20240831/42406_ff76446f/2000k/hls/mixed.m3u8
+红楼梦 第04集,https://v.cdnlz19.com/20240831/42408_747fe203/2000k/hls/mixed.m3u8
+红楼梦 第05集,https://v.cdnlz19.com/20240831/42407_8cd33997/2000k/hls/mixed.m3u8
+红楼梦 第06集,https://v.cdnlz19.com/20240831/42409_096baeef/2000k/hls/mixed.m3u8
+红楼梦 第07集,https://v.cdnlz19.com/20240831/42410_79d59437/2000k/hls/mixed.m3u8
+红楼梦 第08集,https://v.cdnlz19.com/20240831/42411_28770fd1/2000k/hls/mixed.m3u8
+红楼梦 第09集,https://v.cdnlz19.com/20240831/42412_330cb0c7/2000k/hls/mixed.m3u8
+红楼梦 第10集,https://v.cdnlz19.com/20240831/42413_96f44670/2000k/hls/mixed.m3u8
+红楼梦 第11集,https://v.cdnlz19.com/20240831/42414_ed92d19a/2000k/hls/mixed.m3u8
+红楼梦 第12集,https://v.cdnlz19.com/20240831/42415_c5f068ce/2000k/hls/mixed.m3u8
+红楼梦 第13集,https://v.cdnlz19.com/20240831/42416_ecd13816/2000k/hls/mixed.m3u8
+红楼梦 第14集,https://v.cdnlz19.com/20240831/42417_a0303d8a/2000k/hls/mixed.m3u8
+红楼梦 第15集,https://v.cdnlz19.com/20240831/42418_b2471659/2000k/hls/mixed.m3u8
+红楼梦 第16集,https://v.cdnlz19.com/20240831/42419_116bdeaa/2000k/hls/mixed.m3u8
+红楼梦 第17集,https://v.cdnlz19.com/20240831/42420_0c7c0b25/2000k/hls/mixed.m3u8
+红楼梦 第18集,https://v.cdnlz19.com/20240831/42421_8c497304/2000k/hls/mixed.m3u8
+红楼梦 第19集,https://v.cdnlz19.com/20240831/42422_43919f2c/2000k/hls/mixed.m3u8
+红楼梦 第20集,https://v.cdnlz19.com/20240901/42614_9c63459d/2000k/hls/mixed.m3u8
+红楼梦 第21集,https://v.cdnlz19.com/20240901/42615_01968b31/2000k/hls/mixed.m3u8
+红楼梦 第22集,https://v.cdnlz19.com/20240831/42423_80bf42b1/2000k/hls/mixed.m3u8
+红楼梦 第23集,https://v.cdnlz19.com/20240831/42424_b6c974d6/2000k/hls/mixed.m3u8
+红楼梦 第24集,https://v.cdnlz19.com/20240831/42425_572400b7/2000k/hls/mixed.m3u8
+红楼梦 第25集,https://v.cdnlz19.com/20240831/42426_922b1307/2000k/hls/mixed.m3u8
+红楼梦 第26集,https://v.cdnlz19.com/20240831/42427_23daf040/2000k/hls/mixed.m3u8
+红楼梦 第27集,https://v.cdnlz19.com/20240831/42428_fa1d468e/2000k/hls/mixed.m3u8
+红楼梦 第28集,https://v.cdnlz19.com/20240831/42429_558b52e8/2000k/hls/mixed.m3u8
+红楼梦 第29集,https://v.cdnlz19.com/20240831/42430_5589a6fc/2000k/hls/mixed.m3u8
+红楼梦 第30集,https://v.cdnlz19.com/20240831/42431_e3844368/2000k/hls/mixed.m3u8
+红楼梦 第31集,https://v.cdnlz19.com/20240831/42432_e0003917/2000k/hls/mixed.m3u8
+红楼梦 第32集,https://v.cdnlz19.com/20240831/42433_ed922c7e/2000k/hls/mixed.m3u8
+红楼梦 第33集,https://v.cdnlz19.com/20240831/42434_ce2e7ee2/2000k/hls/mixed.m3u8
+红楼梦 第34集,https://v.cdnlz19.com/20240831/42435_2f21c57d/2000k/hls/mixed.m3u8
+红楼梦 第35集,https://v.cdnlz19.com/20240831/42436_4ddfe9bc/2000k/hls/mixed.m3u8
+红楼梦 第36集,https://v.cdnlz19.com/20240831/42438_07404a40/2000k/hls/mixed.m3u8
+水浒传 第01集,https://vip1.lz-cdn6.com/20220713/18378_be06c0e2/1000k/hls/mixed.m3u8
+水浒传 第02集,https://vip1.lz-cdn6.com/20220713/18379_0f05359b/1000k/hls/mixed.m3u8
+水浒传 第03集,https://vip1.lz-cdn6.com/20220713/18380_02d55df4/1000k/hls/mixed.m3u8
+水浒传 第04集,https://vip1.lz-cdn6.com/20220713/18381_d7d0c066/1000k/hls/mixed.m3u8
+水浒传 第05集,https://vip1.lz-cdn6.com/20220713/18382_23e2b584/1000k/hls/mixed.m3u8
+水浒传 第06集,https://vip1.lz-cdn6.com/20220713/18383_caf30549/1000k/hls/mixed.m3u8
+水浒传 第07集,https://vip1.lz-cdn6.com/20220713/18384_95b2296a/1000k/hls/mixed.m3u8
+水浒传 第08集,https://vip1.lz-cdn6.com/20220713/18385_6e0b0f87/1000k/hls/mixed.m3u8
+水浒传 第09集,https://vip1.lz-cdn6.com/20220713/18386_c8830b00/1000k/hls/mixed.m3u8
+水浒传 第10集,https://vip1.lz-cdn6.com/20220713/18387_7ad1b52f/1000k/hls/mixed.m3u8
+水浒传 第11集,https://vip1.lz-cdn6.com/20220713/18388_118d0f89/1000k/hls/mixed.m3u8
+水浒传 第12集,https://vip1.lz-cdn6.com/20220713/18389_d697c179/1000k/hls/mixed.m3u8
+水浒传 第13集,https://vip1.lz-cdn6.com/20220713/18390_ae2bd4c1/1000k/hls/mixed.m3u8
+水浒传 第14集,https://vip1.lz-cdn6.com/20220713/18391_bf358d9e/1000k/hls/mixed.m3u8
+水浒传 第15集,https://vip1.lz-cdn6.com/20220713/18392_303f63eb/1000k/hls/mixed.m3u8
+水浒传 第16集,https://vip1.lz-cdn6.com/20220713/18393_f658f127/1000k/hls/mixed.m3u8
+水浒传 第17集,https://vip1.lz-cdn6.com/20220713/18394_b1739622/1000k/hls/mixed.m3u8
+水浒传 第18集,https://vip1.lz-cdn6.com/20220713/18395_8d635382/1000k/hls/mixed.m3u8
+水浒传 第19集,https://vip1.lz-cdn6.com/20220713/18396_fcea8b5c/1000k/hls/mixed.m3u8
+水浒传 第20集,https://vip1.lz-cdn6.com/20220713/18397_9bf2c10f/1000k/hls/mixed.m3u8
+水浒传 第21集,https://vip1.lz-cdn6.com/20220713/18398_19209a76/1000k/hls/mixed.m3u8
+水浒传 第22集,https://vip1.lz-cdn6.com/20220713/18399_b156b511/1000k/hls/mixed.m3u8
+水浒传 第23集,https://vip1.lz-cdn6.com/20220713/18400_a2786af4/1000k/hls/mixed.m3u8
+水浒传 第24集,https://vip1.lz-cdn6.com/20220713/18401_9578416d/1000k/hls/mixed.m3u8
+水浒传 第25集,https://vip1.lz-cdn6.com/20220713/18402_7dbe4824/1000k/hls/mixed.m3u8
+水浒传 第26集,https://vip1.lz-cdn6.com/20220713/18403_bdd4b2d4/1000k/hls/mixed.m3u8
+水浒传 第27集,https://vip1.lz-cdn6.com/20220713/18404_f3b85ab7/1000k/hls/mixed.m3u8
+水浒传 第28集,https://vip1.lz-cdn6.com/20220713/18405_6dbe4441/1000k/hls/mixed.m3u8
+水浒传 第29集,https://vip1.lz-cdn6.com/20220713/18406_ca68b342/1000k/hls/mixed.m3u8
+水浒传 第30集,https://vip1.lz-cdn6.com/20220713/18407_797f17d2/1000k/hls/mixed.m3u8
+水浒传 第31集,https://vip1.lz-cdn6.com/20220713/18408_a26104b4/1000k/hls/mixed.m3u8
+水浒传 第32集,https://vip1.lz-cdn6.com/20220713/18409_e8aea5fe/1000k/hls/mixed.m3u8
+水浒传 第33集,https://vip1.lz-cdn6.com/20220713/18410_68bb5e71/1000k/hls/mixed.m3u8
+水浒传 第34集,https://vip1.lz-cdn6.com/20220713/18411_a6b5a93b/1000k/hls/mixed.m3u8
+水浒传 第35集,https://vip1.lz-cdn6.com/20220713/18412_e5751d6d/1000k/hls/mixed.m3u8
+水浒传 第36集,https://vip1.lz-cdn6.com/20220713/18413_88479f4d/1000k/hls/mixed.m3u8
+水浒传 第37集,https://vip1.lz-cdn6.com/20220713/18413_88479f4d/1000k/hls/mixed.m3u8
+水浒传 第38集,https://vip1.lz-cdn6.com/20220713/18415_48c305d1/1000k/hls/mixed.m3u8
+水浒传 第39集,https://vip1.lz-cdn6.com/20220713/18416_876b2a2b/1000k/hls/mixed.m3u8
+水浒传 第40集,https://vip1.lz-cdn6.com/20220713/18417_e6ba5fec/1000k/hls/mixed.m3u8
+水浒传 第41集,https://vip1.lz-cdn6.com/20220713/18418_68463e1d/1000k/hls/mixed.m3u8
+水浒传 第42集,https://vip1.lz-cdn6.com/20220713/18419_b2d9cc9d/1000k/hls/mixed.m3u8
+水浒传 第43集,https://vip1.lz-cdn6.com/20220713/18420_26f23ac0/1000k/hls/mixed.m3u8
+
+经典电影,#genre#
+
+精武风云·陈真,https://vip1.lz-cdn1.com/20221015/17348_87a9f783/1200k/hls/mixed.m3u8
+少年黄飞鸿之铁马骝,https://vip.ffzy-play7.com/20221227/9985_e1befb18/2000k/hls/mixed.m3u8
+战狼,https://alimov2.a.kwimgs.com/upic/2022/04/21/18/BMjAyMjA0MjExODMxMjZfNjE2NzgxMTQwXzcyNTg2NTUzNjAyXzBfMw==_b_B1b9c98c230308552087753df413a78de.mp4
+战狼2,http://jsmov2.a.yximgs.com/bs3/video-hls/5195746623713842964_hlsb.m3u8
+杀破狼,https://txmov2.a.kwimgs.com/upic/2022/04/21/19/BMjAyMjA0MjExOTA5MzJfNjE2NzgxMTQwXzcyNTg5NzE1MzQ2XzBfMw==_b_B0e8b48a882f59d4e189ed0e2aa379843.mp4
+一个人的武林,https://txmov2.a.kwimgs.com/upic/2022/04/20/19/BMjAyMjA0MjAxOTQyNDhfNjE2NzgxMTQwXzcyNTIwOTU1ODA3XzBfMw==_b_B68e220c3fdf2f09a81fa16462fff899b.mp4
+精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+中南海保镖,http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
+给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+倚天屠龙记之魔教教主,https://cdn1.yzzy-tv-cdn.com/20220406/COULYl8d/index.m3u8
+倚天屠龙记之魔教教主,http://jsmov2.a.yximgs.com/bs3/video-hls/5218264700326446854_hlsb.m3u8
+杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+
+霍元甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5205598302789348106_hlsb.m3u8
+中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+中南海保镖,http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
+给爸爸的信,http://jsmov2.a.yximgs.com/bs3/video-hls//5224175673211197601_hlsb.m3u8
+红海行动,https://txmov2.a.kwimgs.com/upic/2022/11/12/10/BMjAyMjExMTIxMDQ4NTZfNDAzMDAxOTlfODg1MjE4NDgwMDhfMF8z_b_B34774b8b02cf460205dcaa5a06eee66b.mp4
+少林足球,http://jsmov2.a.yximgs.com/bs3/video-hls/5203065047959651388_hlsb.m3u8
+
+霍元甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5205598302789348106_hlsb.m3u8
+双龙会,http://jsmov2.a.yximgs.com/bs3/video-hls/5199687336814310271_hlsb.m3u8
+一个好人,http://jsmov2.a.yximgs.com/bs3/video-hls/5248663982858337076_hlsb.m3u8
+杀破狼,https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
+疾速追杀4,https://vip.ffzyread1.com/20230523/12690_48491ef3/2000k/hls/mixed.m3u8
+叶问2：宗师传奇,https://vip.ffzy-play2.com/20221127/1618_b175df0e/2000k/hls/mixed.m3u8
+咏春,https://v.cdnlz11.com/20231121/18361_1e2e07d7/2000k/hls/mixed.m3u8
+黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8#http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8#https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
+黄飞鸿之三:狮王争霸,https://cdn1.yzzy-tv-cdn.com/20220517/cZrm0twN/index.m3u8#https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+黄飞鸿之四:西域雄狮,https://cdn1.yzzy-tv-cdn.com/20220415/eAed3SPA/index.m3u8#
+黄飞鸿之五:铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8#http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+方世玉续集,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+鼠胆龙威,https://cdn1.yzzy-tv-cdn.com/20220517/lAsQeigJ/index.m3u8
+新少林五祖,https://cdn1.yzzy-tv-cdn.com/20220416/dqxi6ilh/index.m3u8
+笑傲江湖2：东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+功夫之王,https://cdn1.yzzy-tv-cdn.com/20220326/Fu3xA9TS/index.m3u8
+封神传奇,https://cdn1.yzzy-tv-cdn.com/20220326/ga3SHNAV/index.m3u8
+白蛇传说,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+黑侠,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+霍元甲,https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+笑傲江湖2：东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+澳门风云1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
+澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
+赌神1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
+赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+速度与激情9,https://vip.lz-cdn3.com/20220902/12521_3a44611e/index.m3u8
+速度与激情10,https://vip.lz-cdn3.com/20230609/19446_bd6c3340/2000k/hls/mixed.m3u8
+速度与激情10,https://vip.lz-cdn3.com/20230609/19446_bd6c3340/index.m3u8
+速度与激情10,https://vip15.play-cdn15.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
+速度与激情10,https://vip15.play-cdn15.com/20230610/15338_08b48b5a/index.m3u8
+
+乔峰传,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8?txiptv&playlive
+第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
+方世玉续集,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+英雄,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
+白蛇传说,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
+黑侠,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+霍元甲,https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
+师兄撞鬼,https://vip.ffzy-play6.com/20221207/10610_200b5bd4/index.m3u8
+家有喜事,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
+算死草,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
+行运一条龙,https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
+龙的传人,https://vip.ffzy-play7.com/20221112/3556_7788de32/index.m3u8
+咖喱辣椒,https://vip.ffzy-play7.com/20221112/3509_1a0443fd/index.m3u8
+西游降魔篇,https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
+长江七号,https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
+神话,https://vip.ffzy-play6.com/20221017/20_989dd1f8/index.m3u8
+飞龙再生,https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
+特务迷城,https://vip.ffzy-play6.com/20221019/111_6edaadc7/index.m3u8
+神奇燕尾服,https://vip.ffzy-play6.com/20221019/127_851b9820/index.m3u8
+十二生肖,https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
+我是谁,https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
+宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
+千机变,https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
+警察故事续集,https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
+警察故事3,https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
+警察故事4,https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
+警察故事2013,https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
+新警察故事,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
+A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
+特警新人类,https://vip.ffzy-play6.com/20221112/6113_c01821f3/index.m3u8
+神探蒲松龄,https://vip.ffzy-play6.com/20221111/5646_d1cd614b/index.m3u8
+玻璃樽,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+攀登者,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
+天将雄师,https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/index.m3u8
+功夫瑜伽,https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
+龙腾虎跃,https://vip.ffzy-play7.com/20221117/5171_c2d4c959/index.m3u8
+迷你特工队,https://vip.ffzy-play7.com/20221117/5052_54ce37e4/index.m3u8
+急先锋,https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
+红番区,https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
+师弟出马,https://vip.ffzy-play7.com/20221115/4764_aba20ecc/index.m3u8
+奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+新少林寺,https://vip.ffzy-play.com/20221015/881_3dbc4077/index.m3u8
+一个好人,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/index.m3u8
+火烧岛,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
+醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
+
+夏日福星,https://vip.ffzy-play7.com/20230118/11937_84244e52/index.m3u8
+城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
+新宿事件,https://vip.ffzy-play7.com/20230314/18148_991eeb8a/index.m3u8
+决战紫禁之巅,https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
+与龙共舞,https://vip.ffzy-play6.com/20221207/10859_1b02d27c/index.m3u8
+天若有情3之烽火佳人,https://vip.ffzy-play6.com/20221207/10617_a0d97cd1/index.m3u8
+富贵兵团,https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
+豪门夜宴,https://vip.ffzy-play.com/20221204/29458_3909f6d0/index.m3u8
+战神传说,https://vip.ffzy-play7.com/20221129/7734_53205031/index.m3u8
+中环英雄,https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
+绝代双骄,https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
+中国最后一个太监,https://vip.ffzy-play6.com/20221128/9044_42d732f5/index.m3u8
+人海孤鸿,https://vip.ffzy-play6.com/20221128/8983_f4dd65d1/index.m3u8
+无间道,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+龙之家族,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
+十面埋伏,https://vip.ffzy-play7.com/20221117/5218_ad30347f/index.m3u8
+哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
+最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
+最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
+江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+群龙夺宝,https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
+肝胆相照,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
+五虎将之决裂,https://vip.ffzy-play6.com/20221112/6190_0250331a/index.m3u8
+天地雄心,https://vip.ffzy-play7.com/20221113/4187_a7c41927/index.m3u8
+天与地,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
+扫毒2,https://vip.ffzy-play6.com/20221111/5625_f06cc476/index.m3u8
+阿飞正传,https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+杀手的童话,https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
+龙腾四海,https://vip.ffzy-play7.com/20221112/3563_422b85c5/index.m3u8
+醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+至尊计状元才,https://vip.ffzy-play7.com/20221112/3440_9d089764/index.m3u8
+追龙,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
+侠盗联盟,https://vip.ffzy-play7.com/20221104/1442_e5eca889/index.m3u8
+墨攻,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
+未来警察,https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
+狄仁杰之通天帝国,https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
+三国之见龙卸甲,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/index.m3u8
+老鼠爱上猫,https://vip.ffzy-play2.com/20221019/50_7eedcf07/index.m3u8
+龙凤斗,https://vip.ffzy-play2.com/20221019/18_d8d1ad76/index.m3u8
+阿虎,https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+黑金,https://vip.ffzy-play6.com/20221022/751_a7889097/index.m3u8
+孤男寡女,https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
+旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
+寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+卫斯理之蓝血人,https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
+建党伟业,https://vip.ffzy-play6.com/20221019/168_f44e1477/index.m3u8
+解救吾先生,https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
+天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
+江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8
+龙在边缘,https://vip.ffzy-play.com/20221017/1754_95490c99/index.m3u8
+龙在江湖,https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
+人潮汹涌,https://vip.ffzy-play.com/20221018/1947_3d44a6ed/index.m3u8
+上海十三太保,https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
+狱中龙,https://vip.ffzy-play.com/20221015/999_d5886cd0/index.m3u8
+至尊三十六计之偷天换日,https://vip.ffzy-play.com/20221015/1085_37999806/index.m3u8
+至尊无上,https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
+至尊无上II之永霸天下,https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
+兄弟之生死同盟,https://vip.ffzy-play.com/20221015/897_d3a4e80f/index.m3u8
+新上海滩,https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
+精装追女仔之2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
+英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+义不容辞,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
+秋天的童话,https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
+精装追女仔,https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
+精装追女仔之3狼之一族,https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
+和平饭店,https://vip.ffzy-play6.com/20221129/9326_fb193a3f/index.m3u8
+龙虎风云,https://vip.ffzy-play6.com/20221128/8945_9b4193cd/index.m3u8
+大上海,https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
+义本无言,https://vip.ffzy-play6.com/20221116/7316_f568756b/index.m3u8
+义胆红唇,https://vip.ffzy-play6.com/20221116/7315_8765f39c/index.m3u8
+八星报喜,https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+阿郎的故事,https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+花旗少林,https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
+英雄好汉,https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8
+江湖龙虎斗,https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
+喋血双雄,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
+无双,https://vip.ffzy-play6.com/20221108/5250_e3bbb4e4/index.m3u8
+辣手神探,https://vip.ffzy-play7.com/20221112/3526_ba428b29/index.m3u8
+纵横四海,https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+侠盗高飞,https://vip.ffzy-play7.com/20221112/3315_eef8cb87/index.m3u8
+满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+铜雀台,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
+卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+喜剧明星,https://vip.ffzy-play7.com/20230409/21692_463322cf/index.m3u8
+
+命运呼叫转移,https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
+赵氏孤儿,https://vip.ffzy-play6.com/20221022/1071_73fbd377/index.m3u8
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8
+非诚勿扰2,https://vip.ffzy-play2.com/20221021/163_a55441c0/index.m3u8
+私人订制,https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
+手机,https://vip.ffzy-play6.com/20221019/107_6107b581/index.m3u8
+大腕,https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
+我和我的家乡,https://vip.ffzy-play1.com/20221018/511_7936e28c/index.m3u8
+我和我的祖国,https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
+活着,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
+疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+你好北京,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
+第三个人,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
+我和我的父辈,https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
+大唐玄奘,https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
+江湖儿女,https://vip.ffzy-play7.com/20230205/13419_960c8951/index.m3u8
+人再囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+一出好戏,https://vip.ffzy-play.com/20221015/949_ecf3b061/index.m3u8
+奇迹,https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
+说出你的秘密,https://vip.ffzy-play6.com/20221112/6077_927afdf1/index.m3u8
+催眠大师,https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
+心花路放,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
+火星没事,https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
+夜店,https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
+嘻游记,https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
+爱情呼叫转移,https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+爱情呼叫转移Ⅱ,https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+摩登年代,https://vip.ffzy-play6.com/20221021/516_0ef76f45/index.m3u8
+搞定岳父大人,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
+春娇与志明,https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+一夜惊喜,https://vip.ffzy-play6.com/20221019/211_225bbe08/index.m3u8
+无人区,https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
+记忆切割,https://vip.ffzy-play.com/20221017/1473_691592bd/index.m3u8
+幕后玩家,https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
+我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+新僵尸先生,https://vip.ffzy-play6.com/20221129/9451_47cd067c/index.m3u8
+灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/index.m3u8
+灵幻至尊,https://vip.ffzy-play7.com/20221112/3550_cbc3226a/index.m3u8
+僵尸家族,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
+音乐僵尸,https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8
+群龙戏凤,https://vip.ffzy-play7.com/20230423/22931_b2b1c621/index.m3u8
+钱作怪,https://vip.ffzy-play7.com/20230204/13185_290d13f1/index.m3u8
+人吓人,https://vip.ffzy-play7.com/20230131/12897_66998969/index.m3u8
+人吓鬼,https://vip.ffzy-play7.com/20221115/4745_3dce763c/index.m3u8
+洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
+赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
+英雄无泪,https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221207/10600_7cbfb482/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221129/9331_792c1e13/index.m3u8
+学校风云,https://vip.ffzy-play7.com/20221209/9201_9f4d986a/index.m3u8
+时来运转,https://vip.ffzy-play7.com/20221209/9156_396eac04/index.m3u8
+少林英雄,https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
+林世荣,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/index.m3u8
+鬼咬鬼,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
+鬼打鬼之黄金道士,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
+富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
+驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
+驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
+钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
+追魂伞,https://vip.ffzy-play7.com/20221129/7753_bd15d501/index.m3u8
+妖怪都市,https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
+黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
+黄大仙,https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
+杂家小子,https://vip.ffzy-play6.com/20221128/9261_f18e5614/index.m3u8
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+神枪手与咖喱鸡,https://vip.ffzy-play7.com/20221129/7684_7ac9e104/index.m3u8
+
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/index.m3u8
+七小福,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
+血玫瑰,https://vip.ffzy-play6.com/20221116/7310_02f7420d/index.m3u8
+咸鱼翻身,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
+霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
+赢钱专家,https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8
+甩皮鬼,https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
+一眉道人,https://vip.ffzy-play7.com/20221115/4803_1731be32/index.m3u8
+鬼干部,https://vip.ffzy-play6.com/20221112/6298_1dd44909/index.m3u8
+天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
+密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
+羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+魔戒二部曲双城奇谋,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
+魔戒首部曲魔戒现身,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
+
+ 经典电影2,#genre#
+
+桥,http://kantv.255520.xyz/TV/Film/1969_qiao.m3u8
+存亡之战Tc版,https://v11.qrssv.com/202410/07/keN6NnC96w8/video/2000k_1080/hls/index.m3u8
+第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
+金手指HD粤,https://v.cdnlz12.com/20240213/11556_3642faee/2000k/hls/mixed.m3u8
+醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
+双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
+龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
+东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
+人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+九二神雕之痴心情长剑,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
+天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
+龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
+东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
+黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
+方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+方世玉续集,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+东方巨龙,https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
+黑侠,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+霍元甲,https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
+师兄撞鬼,https://vip.ffzy-play6.com/20221207/10610_200b5bd4/index.m3u8
+97家有喜事,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
+算死草,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
+行运一条龙,https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
+西游降魔篇,https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
+长江七号,https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
+神话,https://vip.ffzy-play6.com/20221017/20_989dd1f8/index.m3u8
+飞龙再生,https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
+特务迷城,https://vip.ffzy-play6.com/20221019/111_6edaadc7/index.m3u8
+神奇燕尾服,https://vip.ffzy-play6.com/20221019/127_851b9820/index.m3u8
+十二生肖,https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
+我是谁,https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
+宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
+千机变,https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
+祝愿蛇年大吉,http://rihou.cc:555/mp4?id=lndjllll.mp4
+全年恭喜发财,http://rihou.cc:555/mp4?id=2025a.mp4
+全粤音乐串烧,http://rihou.cc:555/mp4?id=2025b.mp4
+射雕侠之大者,https://cdn7.ryplay7.com/20250131/10555_1dab6d8e/index.m3u8
+封神战火西岐,https://cdn7.ryplay7.com/20250131/10554_6e35735c/index.m3u8
+哪吒魔童闹海,https://svip.high21-playback.com/20250130/41326_717cc871/index.m3u8
+唐探------1900,https://cdn7.ryplay7.com/20250130/10553_df548ce7/index.m3u8
+雄兵出击超清,https://v.cdnlz4.com/20231201/26186_1cd3ed6c/index.m3u8
+存亡之战超清,https://svip.high21-playback.com/20241213/40555_5eef5126/index.m3u8
+周处除三害超,https://svipsvip.ffzy-online5.com/20240301/24303_f0da8c06/index.m3u8
+第二十条超清,https://v.cdnlz2.com/20240426/30568_596f7554/index.m3u8
+飞驰人生2-超,https://svipsvip.ffzy-online5.com/20240428/26643_6d4f92ab/index.m3u8
+暴走财神5HD,https://v.cdnlz12.com/20240214/11569_e1ddc734/2000k/hls/mixed.m3u8
+熊出没·逆转时空HD,https://vip.ffzy-online2.com/20230521/37661_330568c0/index.m3u8
+醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
+双龙会,https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
+龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
+黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
+义胆雄心,https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8
+人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+九一神雕侠侣,https://vip.ffzy-play6.com/20221112/6044_68796407/index.m3u8
+刀剑笑,https://vip.ffzy-play7.com/20221112/3808_6690be34/index.m3u8
+天若有情,https://vip.ffzy-play6.com/20221112/6132_760d67fd/index.m3u8
+龙兄虎弟,https://vip.ffzy-play6.com/20221116/7264_5b0b594e/index.m3u8
+东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/index.m3u8
+中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+少林小子,https://vip.ffzy-play7.com/20230216/14926_434969e4/index.m3u8
+南北少林,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
+给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+花木兰,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
+龙在天涯,https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
+笑傲江湖2：东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+英雄,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
+白蛇传说,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
+龙的传人,https://vip.ffzy-play7.com/20221112/3556_7788de32/index.m3u8
+咖喱辣椒,https://vip.ffzy-play7.com/20221112/3509_1a0443fd/index.m3u8
+警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+警察故事续集,https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
+警察故事3,https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
+警察故事4,https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
+警察故事2013,https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
+新警察故事,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
+超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
+A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
+龙的心,https://vip.ffzy-play7.com/20221115/4539_8b9150f6/index.m3u8
+特警新人类,https://vip.ffzy-play6.com/20221112/6113_c01821f3/index.m3u8
+神探蒲松龄,https://vip.ffzy-play6.com/20221111/5646_d1cd614b/index.m3u8
+玻璃樽,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+攀登者,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
+天将雄师,https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/index.m3u8
+功夫瑜伽,https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
+龙腾虎跃,https://vip.ffzy-play7.com/20221117/5171_c2d4c959/index.m3u8
+迷你特工队,https://vip.ffzy-play7.com/20221117/5052_54ce37e4/index.m3u8
+急先锋,https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
+红番区,https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
+师弟出马,https://vip.ffzy-play7.com/20221115/4764_aba20ecc/index.m3u8
+奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+龙少爷,https://vip.ffzy-play7.com/20221115/4703_5132dc98/index.m3u8
+快餐车,https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/index.m3u8
+新少林寺,https://vip.ffzy-play.com/20221015/881_3dbc4077/index.m3u8
+一个好人,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/index.m3u8
+火烧岛,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
+醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
+笑拳怪招,https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
+蛇鹤八步,https://vip.ffzy-play6.com/20221128/9119_1b13e298/index.m3u8
+少林木人巷,https://vip.ffzy-play6.com/20221128/9115_ff8a121e/index.m3u8
+拳精,https://vip.ffzy-play6.com/20221128/9094_13caae92/index.m3u8
+龙拳,https://vip.ffzy-play6.com/20221128/9052_3612e0ff/index.m3u8
+夏日福星,https://vip.ffzy-play7.com/20230118/11937_84244e52/index.m3u8
+城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+大兵小将,https://vip.ffzy-play7.com/20230101/10714_0de1384d/index.m3u8
+飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
+新宿事件,https://vip.ffzy-play7.com/20230314/18148_991eeb8a/index.m3u8
+刁手怪招,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
+决战紫禁之巅,https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
+与龙共舞,https://vip.ffzy-play6.com/20221207/10859_1b02d27c/index.m3u8
+天若有情3之烽火佳人,https://vip.ffzy-play6.com/20221207/10617_a0d97cd1/index.m3u8
+富贵兵团,https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
+五亿探长雷洛传1：雷老虎,https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
+五亿探长雷洛传2：父子情仇,https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
+豪门夜宴,https://vip.ffzy-play.com/20221204/29458_3909f6d0/index.m3u8
+战神传说,https://vip.ffzy-play7.com/20221129/7734_53205031/index.m3u8
+中环英雄,https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
+绝代双骄,https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
+中国最后一个太监,https://vip.ffzy-play6.com/20221128/9044_42d732f5/index.m3u8
+人海孤鸿,https://vip.ffzy-play6.com/20221128/8983_f4dd65d1/index.m3u8
+法内情,https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
+无间道,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+龙之家族,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
+十面埋伏,https://vip.ffzy-play7.com/20221117/5218_ad30347f/index.m3u8
+哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
+最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
+最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
+江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+群龙夺宝,https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
+肝胆相照,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
+五虎将之决裂,https://vip.ffzy-play6.com/20221112/6190_0250331a/index.m3u8
+天地雄心,https://vip.ffzy-play7.com/20221113/4187_a7c41927/index.m3u8
+天与地,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
+扫毒2,https://vip.ffzy-play6.com/20221111/5625_f06cc476/index.m3u8
+阿飞正传,https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+杀手的童话,https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
+龙腾四海,https://vip.ffzy-play7.com/20221112/3563_422b85c5/index.m3u8
+醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+至尊计状元才,https://vip.ffzy-play7.com/20221112/3440_9d089764/index.m3u8
+追龙,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
+侠盗联盟,https://vip.ffzy-play7.com/20221104/1442_e5eca889/index.m3u8
+墨攻,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
+未来警察,https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
+狄仁杰之通天帝国,https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
+三国之见龙卸甲,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/index.m3u8
+老鼠爱上猫,https://vip.ffzy-play2.com/20221019/50_7eedcf07/index.m3u8
+龙凤斗,https://vip.ffzy-play2.com/20221019/18_d8d1ad76/index.m3u8
+阿虎,https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+黑金,https://vip.ffzy-play6.com/20221022/751_a7889097/index.m3u8
+孤男寡女,https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
+旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
+寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+拆弹专家,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+卫斯理之蓝血人,https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
+建党伟业,https://vip.ffzy-play6.com/20221019/168_f44e1477/index.m3u8
+赌侠大战拉斯维加斯,https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
+赌城大亨之新哥传奇,https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
+赌城大亨II之至尊无敌,https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
+解救吾先生,https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
+天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
+江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8
+龙在边缘,https://vip.ffzy-play.com/20221017/1754_95490c99/index.m3u8
+龙在江湖,https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
+门徒,https://vip.ffzy-play.com/20221017/1787_03664048/index.m3u8
+失孤,https://vip.ffzy-play1.com/20221018/299_06ee96a1/index.m3u8
+人潮汹涌,https://vip.ffzy-play.com/20221018/1947_3d44a6ed/index.m3u8
+上海十三太保,https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
+暗战,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
+侠圣,https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
+狱中龙,https://vip.ffzy-play.com/20221015/999_d5886cd0/index.m3u8
+至尊三十六计之偷天换日,https://vip.ffzy-play.com/20221015/1085_37999806/index.m3u8
+至尊无上,https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
+至尊无上II之永霸天下,https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
+兄弟之生死同盟,https://vip.ffzy-play.com/20221015/897_d3a4e80f/index.m3u8
+新上海滩,https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
+精装追女仔之2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
+监狱风云1,https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
+监狱风云2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
+英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+英雄本色3,https://vip.lz-cdn7.com/20230411/15301_64c1550f/index.m3u8
+寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
+澳门风云1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
+澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
+赌神1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
+赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+义不容辞,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
+秋天的童话,https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
+精装追女仔,https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
+精装追女仔之3狼之一族,https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
+和平饭店,https://vip.ffzy-play6.com/20221129/9326_fb193a3f/index.m3u8
+龙虎风云,https://vip.ffzy-play6.com/20221128/8945_9b4193cd/index.m3u8
+大上海,https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
+义本无言,https://vip.ffzy-play6.com/20221116/7316_f568756b/index.m3u8
+义胆红唇,https://vip.ffzy-play6.com/20221116/7315_8765f39c/index.m3u8
+八星报喜,https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+阿郎的故事,https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+花旗少林,https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
+英雄好汉,https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8
+江湖龙虎斗,https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
+喋血双雄,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
+无双,https://vip.ffzy-play6.com/20221108/5250_e3bbb4e4/index.m3u8
+辣手神探,https://vip.ffzy-play7.com/20221112/3526_ba428b29/index.m3u8
+纵横四海,https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+侠盗高飞,https://vip.ffzy-play7.com/20221112/3315_eef8cb87/index.m3u8
+满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+孔子,https://vip.ffzy-play6.com/20221027/2108_7c929ef0/index.m3u8
+铜雀台,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
+卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+消失的女人,https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
+喜剧明星,https://vip.ffzy-play7.com/20230409/21692_463322cf/index.m3u8
+离婚大战,https://vip.ffzy-play7.com/20230409/21638_281e50c4/index.m3u8
+桃花运,https://vip.ffzy-play7.com/20230204/13202_2844d10a/index.m3u8
+甲方乙方,https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
+天生胆小,https://vip.ffzy-play6.com/20221129/9417_4ed30e0d/index.m3u8
+没完没了,https://vip.ffzy-play6.com/20221129/9376_7f06747a/index.m3u8
+上海红美丽,https://vip.ffzy-play6.com/20221126/8466_47514053/index.m3u8
+一步之遥,https://vip.ffzy-play2.com/20221122/1201_e24fce85/index.m3u8
+黄河遥,https://vip.ffzy-play7.com/20221117/5148_d5633e82/index.m3u8
+两只老虎,https://vip.ffzy-play7.com/20221117/5047_beb0a18c/index.m3u8
+顽主,https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
+过年,https://vip.ffzy-play6.com/20221112/6307_79a4bfc2/index.m3u8
+不见不散,https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+半生缘,https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
+霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+秦颂,https://vip.ffzy-play7.com/20221112/3653_ad708d24/index.m3u8
+有话好好说,https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
+命运呼叫转移,https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
+赵氏孤儿,https://vip.ffzy-play6.com/20221022/1071_73fbd377/index.m3u8
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8
+非诚勿扰2,https://vip.ffzy-play2.com/20221021/163_a55441c0/index.m3u8
+卡拉是条狗,https://vip.ffzy-play6.com/20221020/264_d622ce7f/index.m3u8
+私人订制,https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
+手机,https://vip.ffzy-play6.com/20221019/107_6107b581/index.m3u8
+古董局中局,https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
+大腕,https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
+我和我的家乡,https://vip.ffzy-play1.com/20221018/511_7936e28c/index.m3u8
+我和我的祖国,https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
+活着,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
+疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
+疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+你好北京,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
+第三个人,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
+我和我的父辈,https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
+大唐玄奘,https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
+江湖儿女,https://vip.ffzy-play7.com/20230205/13419_960c8951/index.m3u8
+人再囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+一出好戏,https://vip.ffzy-play.com/20221015/949_ecf3b061/index.m3u8
+奇迹,https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
+说出你的秘密,https://vip.ffzy-play6.com/20221112/6077_927afdf1/index.m3u8
+催眠大师,https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
+心花路放,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
+火星没事,https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
+夜店,https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
+嘻游记,https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
+爱情呼叫转移,https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+爱情呼叫转移Ⅱ：爱情左右,https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+摩登年代,https://vip.ffzy-play6.com/20221021/516_0ef76f45/index.m3u8
+搞定岳父大人,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
+春娇与志明,https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+一夜惊喜,https://vip.ffzy-play6.com/20221019/211_225bbe08/index.m3u8
+无人区,https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
+记忆切割,https://vip.ffzy-play.com/20221017/1473_691592bd/index.m3u8
+幕后玩家,https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
+我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+爱情神话,https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
+超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
+僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+新僵尸先生,https://vip.ffzy-play6.com/20221129/9451_47cd067c/index.m3u8
+灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/index.m3u8
+灵幻至尊,https://vip.ffzy-play7.com/20221112/3550_cbc3226a/index.m3u8
+僵尸家族,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
+音乐僵尸,https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8
+群龙戏凤,https://vip.ffzy-play7.com/20230423/22931_b2b1c621/index.m3u8
+钱作怪,https://vip.ffzy-play7.com/20230204/13185_290d13f1/index.m3u8
+人吓人,https://vip.ffzy-play7.com/20230131/12897_66998969/index.m3u8
+人吓鬼,https://vip.ffzy-play7.com/20221115/4745_3dce763c/index.m3u8
+老虎田鸡,https://vip.ffzy-play7.com/20221224/9583_f95a6383/index.m3u8
+洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
+赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
+英雄无泪,https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221207/10600_7cbfb482/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221129/9331_792c1e13/index.m3u8
+学校风云,https://vip.ffzy-play7.com/20221209/9201_9f4d986a/index.m3u8
+时来运转,https://vip.ffzy-play7.com/20221209/9156_396eac04/index.m3u8
+少林英雄,https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
+林世荣,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/index.m3u8
+鬼咬鬼,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
+鬼打鬼之黄金道士,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
+富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
+驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
+驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
+钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
+追魂伞,https://vip.ffzy-play7.com/20221129/7753_bd15d501/index.m3u8
+妖怪都市,https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
+黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
+黄大仙,https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
+杂家小子,https://vip.ffzy-play6.com/20221128/9261_f18e5614/index.m3u8
+三德和尚与舂米六,https://vip.ffzy-play6.com/20221128/9099_38718b59/index.m3u8
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+神枪手与咖喱鸡,https://vip.ffzy-play7.com/20221129/7684_7ac9e104/index.m3u8
+老虎煞星,https://vip.ffzy-play7.com/20221128/7611_ae4536d6/index.m3u8
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/index.m3u8
+七小福,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
+血玫瑰,https://vip.ffzy-play6.com/20221116/7310_02f7420d/index.m3u8
+咸鱼翻身,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
+霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
+赢钱专家,https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8
+甩皮鬼,https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
+一眉道人,https://vip.ffzy-play7.com/20221115/4803_1731be32/index.m3u8
+鬼干部,https://vip.ffzy-play6.com/20221112/6298_1dd44909/index.m3u8
+天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
+密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
+羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+
+
+
+ 
+
