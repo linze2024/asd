@@ -827,6 +827,18 @@
 			"changeable": 1,
 			"genre": "music"
 		},
+{
+      "key": "爱听音乐",
+      "name": "📻爱听┃音乐",
+      "type": 3,
+      "api": "./py/爱听音乐.py"
+    },
+    {
+      "key": "听了么",
+      "name": "📻听歌┃音乐",
+      "type": 3,
+      "api": "./py/tlm.js"
+    },
 		{
 			"name": "🎸蜻蜓┃电台",
 			"key": "QTfm",
